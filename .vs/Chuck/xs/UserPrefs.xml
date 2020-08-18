@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{20411370-6407-42EF-85EC-D9101BD19AA1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Chuck PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Chuck/Dockerfile">
+    <Files>
+      <File FileName="Chuck/Controllers/HomeController.cs" Line="34" Column="33" />
+      <File FileName="Chuck/Models/Joke.cs" Line="13" Column="1" />
+      <File FileName="Chuck/Views/Home/Index.cshtml" Line="1" Column="13" />
+      <File FileName="Chuck/Views/Shared/_Layout.cshtml" Line="40" Column="93" />
+      <File FileName="Chuck/Dockerfile" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Chuck" expanded="True">
+            <Node name="Chuck" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

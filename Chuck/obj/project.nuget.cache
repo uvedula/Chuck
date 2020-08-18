@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bKueQEIkzUvPbqsqerHKu8LUHXmOdRYOW85xWGWP7/cC9q5LiHeUHmrMJas3xnu6zvUXwyCbwv/xAbQ5SH0Q7g==",
+  "success": true,
+  "projectFilePath": "/Users/uvedula/Projects/Chuck/Chuck/Chuck.csproj",
+  "expectedPackageFiles": [
+    "/Users/uvedula/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
